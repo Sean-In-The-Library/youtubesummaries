@@ -9,6 +9,7 @@ This tool is part of the AI Engineering Hub initiative, providing powerful YouTu
 - 📈 Trend analysis and insights generation
 - 🎯 Custom date range selection
 - 💻 User-friendly Streamlit interface
+- 🤖 Ability to swap between API calls and local models (I used Deepseek-r1:7b with Ollama for this)
 
 ## Installation
 1. Clone the repository
