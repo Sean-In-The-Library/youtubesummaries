@@ -37,7 +37,7 @@ streamlit run app.py
 - **Language Models**: Deepseek-r1:7b
 
 ## Attribution
-This project is part of the [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub), which provides in-depth tutorials on LLMs, RAGs, and real-world AI agent applications.
+This project is a fork of [AI Engineering Hub](https://github.com/patchy631/ai-engineering-hub), which provides in-depth tutorials on LLMs, RAGs, and real-world AI agent applications.  I just had to make a couple of changes to get it working.
 
 ## Author
 Sean A. Harrington  
@@ -48,14 +48,3 @@ University of Oklahoma College of Law
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ---
-
-## 📬 Stay Updated with Our Newsletter!
-**Get a FREE Data Science eBook** 📖 with 150+ essential lessons in Data Science when you subscribe to our newsletter! Stay in the loop with the latest tutorials, insights, and exclusive resources. [Subscribe now!](https://join.dailydoseofds.com)
-
-[![Daily Dose of Data Science Newsletter](https://github.com/patchy631/ai-engineering/blob/main/resources/join_ddods.png)](https://join.dailydoseofds.com)
-
----
-
-## Contribution
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
