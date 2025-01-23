@@ -33,6 +33,7 @@ class FileReadTool(BaseTool):
 docs_tool = FileReadTool()
 
 bright_data_api_key = os.getenv("BRIGHT_DATA_API_KEY")
+print(f"API Key loaded: {'Yes' if bright_data_api_key else 'No'}")
 
 @st.cache_resource
 def load_llm():
