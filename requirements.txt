@@ -1,0 +1,5 @@
+streamlit
+ollama
+crewai
+crewai-tools
+langchain-community
